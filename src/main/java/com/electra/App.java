@@ -1,6 +1,5 @@
 package com.electra;
 
-import com.electra.model.Brand;
 import com.electra.service.*;
 import java.io.IOException;
 import java.sql.SQLException;
