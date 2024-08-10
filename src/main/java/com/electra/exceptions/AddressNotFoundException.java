@@ -1,4 +1,4 @@
-package com.Electra.exceptions;
+package com.electra.exceptions;
 
 public class AddressNotFoundException extends RuntimeException {
     public AddressNotFoundException(Long id) {
