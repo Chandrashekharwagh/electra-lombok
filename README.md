@@ -29,9 +29,10 @@ import lombok.Data;
 import lombok.NonNull;
 
 @Data
+@NonNull
+
 public class User {
     private Long id;
-    @NonNull
     private String username;
     private String email;
 }
